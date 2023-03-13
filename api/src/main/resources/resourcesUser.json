@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Sra",
+        "first": "Suzanne",
+        "last": "Gibson"
+      },
+      "location": {
+        "street": {
+          "number": 831,
+          "name": "Park Lane"
+        },
+        "city": "Lincoln",
+        "state": "Clwyd",
+        "country": "Reino Unido",
+        "código postal": "D22 8TH",
+        "coordinates": {
+          "latitude": "-9.3453",
+          "longitude": "158.5154"
+        },
+        "timezone": {
+          "offset": "-9:00",
+          "description": "Alasca "
+        }
+      },
+      "email": "suzanne.gibson@example.com",
+      "login": {
+        "uuid": "e4d11972-2e14-41f7-8b49-59005b2a426b",
+        "username": "organicfrog631",
+        "password": "derrick",
+        "salt": "6hrg9EdR",
+        "md5": "a4c614e6f85a30a241c94da7948d5d48",
+        "sha1": "d9cae4d70638c0b7fce6357c07890e270de66bc7",
+        "sha256": "eb2cf58e46944853054118fdd39fb01c397785ebc09ed3c500cc7214e544c86c"
+      },
+      "dob": {
+        "date": "1947-05-29T00:25:12.083Z",
+        "idade": 75
+      },
+      "registrado": {
+        "data": "2003-06-14T13:09:45.587Z",
+        "idade": 19
+      },
+      " phone": "017684 12901",
+      "cell": "07228 151344",
+      "id": {
+        "name": "NINO",
+        "value": "WM 71 61 14 W"
+      },
+      "imagem": {
+        "grande ": "https://randomuser.me/api/portraits/women/32.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/32.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
+      },
+      "nat": "GB"
+    }
+  ],
+  "info": {
+    "seed": "f54b3aafe41627b7",
+    "resultados": 1,
+    "página": 1,
+    "versão": "1.4"
+  }
+}
